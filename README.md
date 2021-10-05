@@ -1,1 +1,2 @@
 # Cache-memory-Simulator
+This program simulates the operation of a fully associative cache memory on an embedded processor in C. The program simulates and analyses the performance of the cache meomry when excuting cross correlation and bubble sort algorithms. In addition, the program simulates the effect of changing the block size on the performance of the cache memory. The program takes in memory trace files as input, and produces a csv report as an output.
